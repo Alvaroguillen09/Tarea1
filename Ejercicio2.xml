@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<club>
+    <nombre>Barcelona</nombre>
+    <entrenador>Xavi</entrenador>
+    <jugadores>
+        <jugador posicion="Delanero">
+            <jornada nJornada="9">
+            <nombre>Lionel</nombre>
+            <nacionalidad>argentino</nacionalidad>
+            <minutosJugados>95</minutosJugados>
+            <goles>4</goles>
+            <convocado> si </convocado>
+            <temporada>2022/2023</temporada>
+            </jornada>
+    
+        <jornada nJornada="10">
+            <nombre>Lionel</nombre>
+            <nacionalidad>argentino</nacionalidad>
+            <minutosJugados>94</minutosJugados>
+            <goles>2</goles>
+            <convocado> si </convocado>
+            <temporada>2022/2023</temporada>
+            </jornada>
+        </jugador>
+    </jugadores>
+</club>
